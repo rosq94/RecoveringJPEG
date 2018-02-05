@@ -1,0 +1,60 @@
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG\main\bin\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG\main\bin\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG\main\obj\Debug\JPG.csprojResolveAssemblyReference.cache
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG\main\obj\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG\main\obj\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa\main\obj\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa\main\obj\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa\main\bin\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa\main\bin\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa\main\obj\Debug\JPG.csprojResolveAssemblyReference.cache
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa_v2\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa_v2\main\obj\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa_v2\main\obj\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa_v2\main\bin\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa_v2\main\bin\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\Doxygen-materiały\ProjektDoxygen\SzukanieJPG_Michał_Rosa_v2\main\obj\Debug\JPG.csprojResolveAssemblyReference.cache
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v3\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v3\main\obj\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v3\main\obj\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v3\main\bin\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v3\main\bin\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v3\main\obj\Debug\JPG.csprojResolveAssemblyReference.cache
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v4\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v4\main\obj\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v4\main\obj\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v4\main\bin\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v4\main\bin\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v4\main\obj\Debug\JPG.csprojResolveAssemblyReference.cache
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v5\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v5\main\obj\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v5\main\obj\Debug\main.pdb
+C:\Users\Bartek\Downloads\SzukanieJPG_Michał_Rosa_v5\main\bin\Debug\main.exe.config
+C:\Users\Bartek\Downloads\SzukanieJPG_Michał_Rosa_v5\main\obj\Debug\main.exe
+C:\Users\Bartek\Downloads\SzukanieJPG_Michał_Rosa_v5\main\obj\Debug\main.pdb
+C:\Users\Michciu\Desktop\SzukanieJPG_Michał_Rosa_v5\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Desktop\SzukanieJPG_Michał_Rosa_v5\main\obj\Debug\main.exe
+C:\Users\Michciu\Desktop\SzukanieJPG_Michał_Rosa_v5\main\obj\Debug\main.pdb
+C:\Users\Michciu\Desktop\SzukanieJPG_Michał_Rosa_v5\main\bin\Debug\main.exe
+C:\Users\Michciu\Desktop\SzukanieJPG_Michał_Rosa_v5\main\bin\Debug\main.pdb
+C:\Users\Michciu\Desktop\SzukanieJPG_Michał_Rosa_v5\main\obj\Debug\JPG.csprojResolveAssemblyReference.cache
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v6\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v6\main\obj\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v6\main\obj\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v6\main\bin\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v6\main\bin\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v6\main\obj\Debug\JPG.csprojResolveAssemblyReference.cache
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v7\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v7\main\obj\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v7\main\obj\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v7\main\bin\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v7\main\bin\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v7\main\obj\Debug\JPG.csprojResolveAssemblyReference.cache
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v8\main\bin\Debug\main.exe.config
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v8\main\obj\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v8\main\obj\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v8\main\bin\Debug\main.exe
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v8\main\bin\Debug\main.pdb
+C:\Users\Michciu\Dysk Google\SGGW\Semestr 4\Inżynieria Oprogramowania\projekt\SzukanieJPG_Michał_Rosa_v8\main\obj\Debug\JPG.csprojResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+2016-06-03 19:24:13
+---Rozpoczęcie pracy modułu JPG---
+Rozpoczęto wyszukiwanie plików JPG
+Zakończono wyszukiwanie plików JPG
+Rozpoczęto przywracanie plików
+Zakończono przywracanie plików
+---Zakończono pomyślnie---
+ 
+2016-06-03 19:24:35
+---Rozpoczęcie pracy modułu JPG---
+Rozpoczęto wyszukiwanie plików JPG
+Zakończono wyszukiwanie plików JPG
+Rozpoczęto przywracanie plików
+Zakończono przywracanie plików
+---Zakończono pomyślnie---
+ 
+2017-04-21 09:47:05
+---Rozpoczęcie pracy modułu JPG---
+Indeks wykraczał poza granice tablicy.
+---Zakończono z błędem---
+ 

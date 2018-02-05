@@ -1,0 +1,45 @@
+2017-04-21 09:46:39
+---Rozpoczęcie pracy modułu JPG---
+Indeks wykraczał poza granice tablicy.
+---Zakończono z błędem---
+ 
+2017-04-21 10:49:57
+---Rozpoczęcie pracy modułu JPG---
+Indeks wykraczał poza granice tablicy.
+---Zakończono z błędem---
+ 
+2017-04-21 10:52:01
+---Rozpoczęcie pracy modułu JPG---
+Indeks wykraczał poza granice tablicy.
+---Zakończono z błędem---
+ 
+2017-04-21 10:52:31
+---Rozpoczęcie pracy modułu JPG---
+Niedozwolone znaki w ścieżce.
+---Zakończono z błędem---
+ 
+2017-04-21 10:52:40
+---Rozpoczęcie pracy modułu JPG---
+Indeks wykraczał poza granice tablicy.
+---Zakończono z błędem---
+ 
+2017-04-21 10:53:05
+---Rozpoczęcie pracy modułu JPG---
+Indeks wykraczał poza granice tablicy.
+---Zakończono z błędem---
+ 
+2017-04-21 10:53:25
+---Rozpoczęcie pracy modułu JPG---
+Indeks wykraczał poza granice tablicy.
+---Zakończono z błędem---
+ 
+2018-02-02 12:23:55
+---Rozpoczęcie pracy modułu JPG---
+Indeks wykraczał poza granice tablicy.
+---Zakończono z błędem---
+ 
+2018-02-02 12:28:11
+---Rozpoczęcie pracy modułu JPG---
+Indeks wykraczał poza granice tablicy.
+---Zakończono z błędem---
+ 
